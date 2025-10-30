@@ -27,7 +27,7 @@ int main()
     float pib_per_capita2;
 
     printf("\n");
-    printf("[ Seja bem-vindo ao Super Trunfo nível Novato! ]\n");
+    printf("[ Seja bem-vindo ao Super Trunfo nível Aventureiro! ]\n");
     printf("\nAbaixo digite os dados correspondentes\n");
 
     printf("\n--- DADOS DA CARTA 1 ---\n");
